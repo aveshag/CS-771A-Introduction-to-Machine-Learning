@@ -13,4 +13,4 @@ Folder assn*: Contain problem and data
 <br/><br/>
 Folder submit: Contain our solution
 <br/><br/>
-Assignment2 and Assignment3 are password protected. Contact me for password.
+Assignment2 and Assignment3 are password protected.
