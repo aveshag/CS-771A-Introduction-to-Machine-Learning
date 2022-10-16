@@ -1,7 +1,7 @@
 # CS-771A
 CS 771A: Introduction to Machine Learning
 
-CS771 is the course offered by Professor Purushottam Kar in 2019-20 odd semester. This repo contains assignment done during course.
+CS771 is the course offered by Professor Purushottam Kar in 2019-20 odd semester. This repository contains assignment done during course.
 <br/><br/>
 Assignment1: Based on optimization techniques
 <br/><br/>
